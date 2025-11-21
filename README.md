@@ -21,15 +21,9 @@ Just one portable file you can delete anytime.
 5. Enter the new year → month → day → done
 
 
-
-
-
-
-
-
 > [!IMPORTANT]
 > This script relies on the `SetFile` utility (included with the Xcode command line tools).  
-> If it isn’t available, the script will prompt you to install it automatically.
+> If it isn’t yet installed, the script will prompt you to install it automatically.
 >
 > ```bash
 > xcode-select --install
