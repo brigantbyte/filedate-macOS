@@ -29,8 +29,6 @@ Just one portable file you can delete anytime.
 > xcode-select --install
 > ```
 
-<br><br>
-
 ---
 
 ## Features
