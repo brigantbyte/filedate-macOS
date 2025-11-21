@@ -20,8 +20,7 @@ Just one portable file you can delete anytime.
 4. Drag any file or folder into the terminal window, press Enter  
 5. Enter the new year → month → day → done
 
-<br>
-<br>
+<br><br>
 
 > [!IMPORTANT]
 > This script relies on the `SetFile` utility (included with the Xcode command line tools).  
@@ -30,6 +29,8 @@ Just one portable file you can delete anytime.
 > ```bash
 > xcode-select --install
 > ```
+
+<br><br>
 
 ---
 
