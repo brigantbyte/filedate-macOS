@@ -1,8 +1,8 @@
 # filedate-macOS
 
-Easy file-level date changer script for macOS (supports 40+ system languages)
+Easy file-level date changer script for macOS (supports 30+ system languages)
 
-A tiny `.command` script (about **45 KB**) that lets you easily change the creation date of any file or folder on macOS, including all files inside subfolders.
+A tiny `.command` script (about **86 KB**) that lets you easily change the creation date of any file or folder on macOS, including all files inside subfolders.
 
 No apps, no installers, no permissions beyond what macOS already provides.  
 Just one portable file you can delete anytime.
@@ -33,7 +33,7 @@ Just one portable file you can delete anytime.
 
 ## Features
 - Works on macOS 10.13+
-- Interface automatically adapts to 40+ system languages
+- Interface automatically adapts to 30+ system languages
 - English used as fallback if the language is not supported
 - Validates dates (including leap years)
 - Blocks future dates
