@@ -1,7 +1,0 @@
-ExifTool License Notice
-
-ExifTool is Copyright (c) 2003-2025, Phil Harvey.
-ExifTool is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself (Artistic License 1.0 or GPL 1+).
-
-More information: https://exiftool.org/
