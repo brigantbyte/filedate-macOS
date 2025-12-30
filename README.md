@@ -40,7 +40,7 @@ Just one portable app you can delete anytime.
 - Validates dates (including leap years)
 - Blocks future dates
 - Recursively processes folders and their contents
-- Pure bash + macOS native SetFile
+- Pure bash + macOS native SetFile + bundled ExifTool
 - Leaves no files, no junk, no background services
 - 100% local and open-source
 
