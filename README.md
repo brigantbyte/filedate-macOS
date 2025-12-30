@@ -2,7 +2,7 @@
 
 Lightweight script-app for changing file dates on macOS (supports 30+ system languages)
 
-A tiny script-app (macOS `.app` with an embedded `.command`) that lets you easily change the creation date of any file or folder on macOS, including all files inside subfolders.
+A tiny macOS `.app` with an embedded `.command` so it can let you easily change the creation date of any file or folder on macOS, including all files inside subfolders.
 
 No installers, no permissions beyond what macOS already provides.
 Just one portable app you can delete anytime.
