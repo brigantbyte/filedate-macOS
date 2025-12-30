@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This project bundles ExifTool, which is a third-party component.
+
+ExifTool is Copyright (c) 2003-2025, Phil Harvey.
+
+ExifTool is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself, either the Artistic License 1.0
+or the GNU General Public License version 1 or later.
+
+More information: https://exiftool.org/
