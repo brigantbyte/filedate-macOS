@@ -45,7 +45,6 @@ Just one portable file you can delete anytime.
 ---
 
 ## Why this script?
-- No extra apps  
 - No installation  
 - No admin rights needed  
 - Easy to delete  
