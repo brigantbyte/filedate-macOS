@@ -19,6 +19,8 @@ Just one portable app you can delete anytime.
    ```
 
 3. Double-click the `.app`
+   If macOS blocks it, go to System Settings → Privacy & Security, click **Open Anyway**.
+
 4. Drag any file or folder into the terminal window, press Enter
 5. Enter the new year → month → day → time → done
 
