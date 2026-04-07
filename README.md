@@ -1,6 +1,6 @@
 # filedate-macOS
 
-Lightweight script-app to change file dates on macOS (supports 30+ system languages)
+Lightweight script-app to change file dates on macOS
 
 It consists of a tiny macOS `.app` with an embedded `.command` that changes creation dates for files and folders, including everything inside subfolders.
 
@@ -36,8 +36,6 @@ Just one portable app you can delete anytime.
 ## Features
 
 - Works on macOS 10.13+
-- Interface automatically adapts to 30+ system languages
-- English used as fallback if the language is not supported
 - Validates dates (including leap years)
 - Blocks future dates
 - Recursively processes folders and their contents
